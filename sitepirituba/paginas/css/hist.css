@@ -102,6 +102,7 @@ a {
 
 #nocopy > img {
     display: inline-block;
+    width:30px;
 }
 
 #lado1 {
